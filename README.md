@@ -1,6 +1,6 @@
 # Hey, I am Alireza 👋  
 
-![Colorful Octocats with City Monuments](https://github-production-user-asset-6210df.s3.amazonaws.com/8146111/273214339-e4164d68-259b-4a68-a98c-dea8392091cf.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240823%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240823T150731Z&X-Amz-Expires=300&X-Amz-Signature=7de736f09b67dd516b3aa8f28e75440194c83b1773a555ac7da9c427f6e0c07d&X-Amz-SignedHeaders=host&actor_id=132994761&key_id=0&repo_id=497272199)  
+![Colorful Octocats with City Monuments](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)  
 
 ## About Me  
 👋 Hello! My name is **Alireza Nasiri**.  About three years ago, I dove into the world of technology and programming. Alongside my lessons and homework, I started exploring hand-made electronics and computer structures. Thanks to my family’s support and my dedicated teacher, I've learned various web design techniques in detail through several face-to-face and online courses.  
