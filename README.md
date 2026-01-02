@@ -12,8 +12,8 @@ My love for technology grows stronger every day, and I am committed to spending 
 - 🌱 **Currently learning:** JavaScript, React  
 
 ## Get in Touch  
-- 📫 How to reach me: [www.alirezanasire.ir](http://www.alirezanasirii.ir)  
-- 🖥️ Visit my website for more information: [www.alirezanasire.ir](http://www.alirezanasirii.ir)  
+- 📫 How to reach me: [www.alirezanasirii.ir](http://www.alirezanasirii.ir)  
+- 🖥️ Visit my website for more information: [www.alirezanasirii.ir](http://www.alirezanasirii.ir)  
 
 ## My Work  
 Here are some fun illustrations showcasing different Octocats:  
